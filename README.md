@@ -64,7 +64,7 @@ Hands-on introduction to web scraping with Python.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/python-training-course.git
+git clone https://github.com/Nde-Dilan/python-training-course.git
 
 # Navigate to the project directory
 cd python-training-course
@@ -73,4 +73,4 @@ cd python-training-course
 pip install -r requirements.txt
 ```
 ---   
-Made with ❤️ for Python learners everywhere
+Made with ❤️ for Python learners everywhere, eave a star if it's helpfull!!
